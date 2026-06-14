@@ -4,6 +4,14 @@ All notable changes to this project are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.2.1] - 2026-06-14
+
+### Fixed
+- Removed all `!important` declarations; bold and italic now win by selector
+  specificity, and the editor cursor is colored via the `--caret-color` variable.
+- Added `screenshot.png` and a `screenshot` field to `manifest.json` so the theme
+  preview resolves during submission.
+
 ## [1.2.0] - 2026-06-14
 
 ### Changed

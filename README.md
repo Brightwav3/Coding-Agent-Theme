@@ -6,7 +6,7 @@ Coding Agent reskins the entire chrome (titlebar, tabs, sidebar, file tree, stat
 
 ![Coding Agent — Claude Code look (dark)](screenshot.png)
 
-![Version](https://img.shields.io/badge/version-1.2.0-d97757)
+![Version](https://img.shields.io/badge/version-1.2.1-d97757)
 ![Obsidian](https://img.shields.io/badge/Obsidian-1.0.0%2B-7c3aed)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
