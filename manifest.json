@@ -1,7 +1,7 @@
 {
   "name": "Coding Agent",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "minAppVersion": "1.0.0",
-  "author": "BrightWav3",
-  "authorUrl": ""
+  "author": "Šimon Zelenka",
+  "authorUrl": "https://github.com/Brightwav3"
 }
