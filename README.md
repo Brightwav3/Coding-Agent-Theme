@@ -58,6 +58,10 @@ Install Style Settings for the full experience; without it the theme falls back 
 - Requires Obsidian **1.0.0** or newer.
 - The Source Code Pro font is loaded from Google Fonts; if you work offline, install the font locally for the full effect.
 
+## Support
+
+If this saved you time, you can [buy me a coffee ☕](https://buymeacoffee.com/brightwave).
+
 ## License
 
 [MIT](LICENSE) © 2026 Šimon Zelenka
